@@ -1,0 +1,5 @@
+# Ignorer le fichier .env contenant les variables sensibles
+.env
+
+# Ignorer le dossier node_modules où sont stockées les dépendances
+node_modules/
